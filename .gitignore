@@ -1,0 +1,31 @@
+# IDEs
+*.idea/
+*.vscode/
+*.classpath
+*.project
+*.settings/
+
+# Compiled files
+*.class
+
+# Maven
+target/
+
+# Gradle
+.gradle/
+build/
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.swp
+*.swo
+*.bak
+
+# Outros arquivos ignorados
+*.DS_Store
+*.thumbs.db
+
+# Arquivos gerados por ferramentas de criptografia
+senhas_encriptadas.txt
